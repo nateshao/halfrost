@@ -31,9 +31,9 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&column=7" alt="halfrost's Github Trophy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nateshao&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nateshao&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=nateshao&column=7" alt="halfrost's Github Trophy" />
 <img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
 </p>
 
@@ -52,7 +52,7 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=nateshao.nateshao" alt="visitor badge"/>       
 </p>
 
 </p>
